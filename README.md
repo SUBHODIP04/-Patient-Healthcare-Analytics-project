@@ -1,4 +1,4 @@
-# -Patient-Healthcare-Analytics-project
+# Patient-Healthcare-Analytics-project
 
 Sure — here is a professional, GitHub-ready README.md for your Patient Healthcare Analytics Power BI Dashboard.
 
