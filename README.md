@@ -185,10 +185,6 @@ Use the available slicers to filter the dashboard.
 
 Explore patient, hospital, admission, billing, and insurance insights.
 
-📸 Dashboard Preview
-Add your Power BI dashboard screenshot here.
-
-![Patient Healthcare Analytics Dashboard](Dashboard/dashboard.png)
 👨‍💻 Author
 Subhodip Sarkar
 
